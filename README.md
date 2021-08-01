@@ -1,2 +1,3 @@
 # Android-Interview-Question
-:point_up_2:
+
+### 1.Component of Android
